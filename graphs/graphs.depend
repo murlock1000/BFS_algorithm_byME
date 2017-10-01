@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1506875675 source:h:\naujas\desktop\programming\graphs\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<algorithm>
+
